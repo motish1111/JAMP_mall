@@ -1,5 +1,6 @@
 # JAMP Mall Administrative Software
 - Open index.html and login via Id and Password.
+- (for login IDs and passwords, update sql database)
 - Navigate through the options for specific operations.
 - Options vary as per the person logged in.
 - Level of Control is subjective to post.
