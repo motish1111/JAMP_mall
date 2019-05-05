@@ -9,6 +9,6 @@
 
 # Customer Portal 
 - Open cp/index.html.
-- Not for Purchase.
+- Note- This portal is Not for Purchase.
 - List of Products at the Mall.
 - Static Updation(on refresh).
