@@ -1,5 +1,5 @@
 # JAMP Mall Administrative Software
-- Setup Database (using XAMPP Server) as mall. (dumped database availabel i =n the repo as mall.sql)
+- Setup Database (using XAMPP Server) as mall. (dumped database available in the repo as mall.sql)
 - Open index.html and login via Id and Password.
 - (for login IDs and passwords, update sql database)
 - Navigate through the options for specific operations.
